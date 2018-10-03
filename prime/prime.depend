@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506165633 source:c:\users\charlie\desktop\prime\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
+1506427005 source:c:\users\charlie\desktop\prime\103048240_prime.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

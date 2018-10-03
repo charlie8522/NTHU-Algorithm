@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509627968 source:c:\users\charlie\desktop\ºtºâªk\random\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509629637 source:c:\users\charlie\desktop\selectalgorithm\103048240.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<iostream>
+	<fstream>
+
